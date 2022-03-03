@@ -20,7 +20,7 @@ const OrderSchedulingScreen = ({ route }: Props) => {
   return (
     <OrderSchedulingProvider>
       <BasicLayout>
-        <Text>order scheduling</Text>
+        <Text>order scheduling page</Text>
       </BasicLayout>
     </OrderSchedulingProvider>
   );
